@@ -1,5 +1,8 @@
 # Azure SDK Sample3 StorageAccount Operations
 
+**NOTE:**
+For general info about Azure SDK for .NET navigate to the following github repo: https://github.com/Azure/azure-sdk-for-net
+
 ```csharp
 ﻿using System;
 using System.Threading.Tasks;
